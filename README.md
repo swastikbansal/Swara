@@ -1,2 +1,2 @@
 # Swara
-* A Python-based application created with Tkinter library that helps singers measure their progress and consistency by analyzing their voice and ensuring pitch consistency or music produced by instruments.
+* This is a Python app built with Tkinter that helps singers and musicians stay on track with their practice. It listens to your voice or instrument, checks how consistent your pitch is, and gives you feedback so you can see how you're improving over time.
