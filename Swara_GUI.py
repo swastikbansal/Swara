@@ -1,7 +1,7 @@
 # Libraries for creating GUI
 from tkinter import *
 from tkinter import filedialog
-from tkcalendar import *
+from tkcalendar import *  # noqa: F403
 
 # Canvas For imposing matplotlib graph and toolbar with tkinter gui.
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
